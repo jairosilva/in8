@@ -12,3 +12,6 @@ Crie uma classe contendo 3 propriedades com seus respectivos gets e sets e um m�
 
 ### Lógica de programação *
 Pensando em todos os números naturais inferiores a 10 que são múltiplos de 3 ou 5, temos 3, 5, 6 e 9. Somando esses múltiplos obtemos o valor 23. Utilize um algorítimo para calcular a soma de todos os múltiplos de 3 ou 5 abaixo de 1000
+
+### Aplicação *
+Junto com a prova, você recebeu um arquivo zipado contendo o layout de uma página web e os itens necessários para construí-lo. Sua tarefa é programar o layout que você recebeu separando o back-end do front-end fazendo toda a comunicação através de uma API RESTful. O back-end deve ser feito em PHP (preferencialmente com Laravel) e o front-end deve ser uma SPA (Single Page Application) usando o framework de sua preferência (React, Angular, Vue...).
