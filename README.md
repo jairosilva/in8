@@ -15,3 +15,8 @@ Pensando em todos os números naturais inferiores a 10 que são múltiplos de 3 
 
 ### Aplicação *
 Junto com a prova, você recebeu um arquivo zipado contendo o layout de uma página web e os itens necessários para construí-lo. Sua tarefa é programar o layout que você recebeu separando o back-end do front-end fazendo toda a comunicação através de uma API RESTful. O back-end deve ser feito em PHP (preferencialmente com Laravel) e o front-end deve ser uma SPA (Single Page Application) usando o framework de sua preferência (React, Angular, Vue...).
+
+Para executar: 
+Acesse a pasta da aplicação e digite php artisan serve. O servidor iniciará na porta 8000. O servidor está em PHP/Laravel. Cliente é Angular 9 e o código está na pasta resources\assets\estagiario-web. Para gerar a aplicação vá até essa pasta e digite npm run-script build.
+
+
